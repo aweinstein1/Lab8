@@ -7,7 +7,7 @@ Lab 8
 
 [﻿https://github.com/aweinstein1/Lab8/blob/main/README.md](https://github.com/aweinstein1/Lab8/blob/main/README.md) 
 
-[﻿https://discord.com/channels/1073296337069682820/1073296337661087889/1084900712502267924](https://discord.com/channels/1073296337069682820/1073296337661087889/1084900712502267924) 
+[﻿https://media.discordapp.net/attachments/1073296337661087889/1084900712305143949/sCzS9VaN5uDGERvr9cjI.png?width=1700&height=712](https://media.discordapp.net/attachments/1073296337661087889/1084900712305143949/sCzS9VaN5uDGERvr9cjI.png?width=1700&height=712) 
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/QswjCmHPZlcGkhrtiRkl --->
