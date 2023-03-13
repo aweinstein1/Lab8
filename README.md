@@ -5,5 +5,7 @@ Lab 8
 
  [﻿View on canvas](https://app.eraser.io/workspace/QswjCmHPZlcGkhrtiRkl?elements=s6SbBVurUsFZIrfpxIi6Ag) 
 
+[﻿https://github.com/aweinstein1/Lab8/blob/main/README.md](https://github.com/aweinstein1/Lab8/blob/main/README.md) 
+
 
 <!--- Eraser file: https://app.eraser.io/workspace/QswjCmHPZlcGkhrtiRkl --->
